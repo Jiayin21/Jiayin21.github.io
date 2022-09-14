@@ -1,0 +1,4 @@
+baseURL = 'https://jiayin21.github.io/'
+languageCode = 'en-us'
+title = 'My Site'
+theme = "Stack"
